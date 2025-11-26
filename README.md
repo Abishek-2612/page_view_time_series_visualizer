@@ -33,7 +33,9 @@ Visualized **daily freeCodeCamp forum page views (2016–2019)** using **Matplot
 ## Files
 - `page_view_time_series_visualizer.ipynb`
 - `fcc-forum-pageviews.csv`
-- Three saved plots
+- `line_plot.png`
+- `bar_plot.png`
+- `box_plot.png`
 
 ## Skills Demonstrated
 - Time series data handling
