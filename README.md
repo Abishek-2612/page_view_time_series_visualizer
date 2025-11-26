@@ -1,5 +1,4 @@
 # Page View Time Series Visualizer
-**freeCodeCamp – Data Analysis with Python Certification | Project 4 of 5**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VOm87C-8d_8igaITeC_3-92CFNnHxNeC?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
