@@ -50,6 +50,3 @@ Visualized **daily freeCodeCamp forum page views (2016–2019)** using **Matplot
 **Made with love by Abishek**
 
 
-
-**4/5 PRoject 5 – Sea Level Predictor** (with linear regression)?  
-Just say **“Let’s finish with Project 5”** and we’ll complete the entire certification in style!
